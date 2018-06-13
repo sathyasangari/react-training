@@ -1,0 +1,8 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sathyasangari/react-training.git",
+  "author": "sathyasangari <sathyasangari@skava.com>",
+  "license": "MIT"
+}
