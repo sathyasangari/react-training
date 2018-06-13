@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/sathyasangari/react-training.git",
   "author": "sathyasangari <sathyasangari@skava.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "make dev",
+    "test": "make TEST"
+  }
 }
